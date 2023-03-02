@@ -1,0 +1,575 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPjh-gJFtQcmoGudR9m1yl0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI3KNmhS8jno3vdnAlK9654/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKeq1DboO-mWeVR-vdx8uD0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SExxxMSIP40jUqqNb1RoJoQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHO_03L0sEb_UNEo6CQzNjE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AddikTV HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC0pvQT_J5uuDO-x6dyxY7E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Ami-Télé HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNRT52D_rSnIVqaXpqOyrkM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Canada HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLwpSUPJ5QUDxU_sOrOLrCg/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Earth CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.earth.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC First
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.first.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Undefined",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC World CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.world.north.america.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BET
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bet.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bnn.bloomberg.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/xEbQsdj.png" group-title="Music",Belmedia TV (1080p)
+https://ythls.onrender.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Bloomberg TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bloomberg.tv.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Undefined",CA | Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",CA | IIPC TV,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Undefined",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",CA | QVTV,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI_xeE80EkdMkW7aWRpuock/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Calgary
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Calgary HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBWogmhfeZPH-DmDCpKMZE4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Central HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCaSBrKBZhMnwUIhtABi1XA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Charlottetown
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbct.charlottetown.pe.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Eastern HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAiVvTR6qVCECSyQAthyqPE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Edmonton
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbxt.edmonton.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Fredericton
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbat.fredericton.nb.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Halifax
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbht.halifax.ns.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Montreal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbmt.montreal.qc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CBC News Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.news.network.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Ottawa
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbot.ottawa.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Regina
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbkt.regina.sk.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC St.Johns
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbnt.st.johns.nl.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Toronto
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cblt.toronto.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Vancouver
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC West HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFg0fSeGYQpwf0FIHnPwTe8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Windsor
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbet.windsor.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Winnipeg
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbwt.winnipeg.mb.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Yellowknife
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cfyk.yellowknife.nwt.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCoW1k6A2jnRwirtApyJ9yg/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH Hamilton CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/chch.hamilton.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY Toronto CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/city.toronto.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY Vancouver BC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/city.vancouver.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmt.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cp24.cablepulse.24.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMGcd1pzvGJzDpgL3OdM_mM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVV5DIwC3CBUt4Ii0NnyXg/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTT3Gbg1ivrZpl9Z0gLtKY/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (CFCN) Calgary, AB
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (CFRN) Edmonton, AB
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.cfrn.edmonton.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (CKNY) North Bay, ON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.ckny.north.bay.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (CKY) Winnipeg, MB
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.cky.winnipeg.mb.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (KITCHENER)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIbbMQeXs2pQei-iTQSHRjM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Comedy East
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.comedy.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Comedy East HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8B1dQ4-YtMgKZyrSUEOEc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Drama
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.drama.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Drama HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGHC2ZRzyNAx0wlS-GIoIqM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEWb8Jrde8qczoWX_PAXuW0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Halifax
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.cjch.halifax.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Kitchener
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.ckco.kitchener.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.life.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Montreal QC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.montreal.cfcf.qc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Montreal SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNyCcJx8XTSKsvAoIxYtlyY/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV News CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.news.channel.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Ottawa ON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.ottawa.cjoh.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Sci-Fi
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.sci.fi.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD8ENkdDSUAOvGVyKoQ78SM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Toronto CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.cfto.toronto.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Two Atlantic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.atlantic.region.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Two Ottawa
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.ottawa.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Two Vancouver Island. BC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.vancouver.island.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Vancouver CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv.vancouver.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Western HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN8rfqVT4_Gwf6fmT88oMSE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 Alberta
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.alberta.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 Barrie, ON (CKVR)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.barrie.on.ckvr.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 London
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.london.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV2 Windsor ON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ctv2.windsor.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport",CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Undefined",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal D HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPa2bM17MK3coHmcbdakXXo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Savoir HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGbci52eFigtGl5RZsVwX2c/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Vie HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8pdcl38gpC8csew-vXhP0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cartoon Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CityCT Montreal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/city.montreal.qc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Comedy Network (East) CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.network.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cooking Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cooking.channel.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cooking Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHWWxe2fAUxImiYOICAdCPU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cottage Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cottage.life.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave1.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave2.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave3.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave4.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/do.it.yourself.network.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD4Swm2AHpga1-2a0a_KPZw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DTOUR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dtour.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",De Película HD MX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/de.pelicula.mx.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Deja View
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/deja.view.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="General",DesheBideshe TV (720p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.can.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHNynmeFAsbsUh4aThSZ9Jk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Science CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.science.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Velocity CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.velocity.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel (East) CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.channel.canada.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLD3eFjpBQPZXdinZJ27kuk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL2NhpuH9rHzI25I69H2dC4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Junior CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.junior.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Junior HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKe5ePVrBmjiOkS_moZjdLk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.xd.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF_jcZlZX_cg3pOAhog5O-s/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Documentary Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/documentary.channel.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.dukhnivaran.ca/wp-content/uploads/2019/01/dukhnivaran_logo1-1.png" group-title="Undefined",Dukh Nivaran (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/e.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! Entertainment HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMh_nWA3r-KbzqLPVD_t31w/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="Undefined",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",EWTN Canada
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ewtn.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Evasion HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SChHshQxGROYKqY_Lth0xnA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",FOX News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.news.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FTO HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFuHAOWxADWhN-aiuYeFsaQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.networks.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEN-rHmXGvPvYl2oAw7UzAQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FXX HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcYqwHKMekgrRzbHCje0mg/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fairchild TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fairchild.tv.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fairchild TV (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fairchild.tv.pacific.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fairchild TV 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fairchild.tv.2.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family CHRGD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/family.chrgd.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPYMtqVtJaxZ2mar6R3l4CE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family JR HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN_Av70fBimkBOw-ck2s7eo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/family.jr.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fight Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOHUZt6tORH8IrIgXg-eUCo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/food.network.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL0HB2PhjuoziU_4oYMqJ9g/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",GLOBAL NEWS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.news.bc1.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Game Show Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/game.show.network.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GameTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEcyxkXVhV25GRNZ2InAswA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Ginx eSports TV CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ginx.esports.tv.canada.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global (CHBC) Okanagan BC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.chbc.okanagan.valley.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global (CHEX) Peterborough, ON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.chex.peterborough.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global (CIHF) Maritimes (N.B. only)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.cihf.maritimes.n.b.only.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global (CKWS) Kingston News, ON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.ckws.kingston.on.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global BC CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.bc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Calgary CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.cict.calgary.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Edmonton CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.citv.edmonton.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Halifax
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.cihf.tv.15.antigonish.ns.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Montreal Quebec
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.montreal.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global National
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.national.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="News",Global News Calgary (720p)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton (720p)
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/HM2cvBm.jpg" group-title="News",Global News Lethbridge (720p)
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bMXVsVB.jpg" group-title="News",Global News Okanagan (720p)
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="News",Global News Toronto (720p)
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Winnipeg
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.news.winnipeg.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Global Toronto
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/golf.channel.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (Scarborough)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2 CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/history.2.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHCTmvKV59tF7s28QnAsOkk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1 CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 (East) CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hgtv.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCOXcT8vYlpX3M3JBCjJ01M/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/history.canada.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLFTsr2f5v8I4qBB6fT3QnU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 70s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hollywood.suite.70s.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 80s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hollywood.suite.80s.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Hollywood Suite 90s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hollywood.suite.90s.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI RDI HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGyljmfP9J1U0xMcoXMukYI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI Radio-Canada Télé HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjArCj_vDb-pKvpwUjhJz0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Investigation (FR) HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNrAnUefBcKHBK-45c-geII/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Investigation Discovery CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/investigation.discovery.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF5orWXEn722yEAOg6EvS54/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Leafs Nation Network
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/leafs.nation.network.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Lifetime HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLiVZ9nyuRe8xgLM0Oerm9E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Lifetime TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lifetime.tv.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Love Nature CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/love.nature.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKyBJkGcUdoiccdZ_Q1gIOs/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV 2 CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.2.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMPOfTqE-lHOB2bEFhvrtAk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Makeful
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/makeful.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Moi & Cie HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFE99t27cO7M5JwwroFe-lU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Movie Time CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movietime.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Music",Much Music CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/much.music.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IN;ID;IR;IQ;IL;KW;MX;MN;MA;NL;OM;PE;SK;SD;SE;AE;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined;FRANCE;MEXICO",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.thenrb.tv/organization/logo/nrb-tv_WJkwkcRXBEVrzo5_1576430300.jpg" group-title="General",NRB TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV CJON
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cjon.ntv.st.john.nl.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP_FGOQ4yZeu9dP7KIUSVp0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFh9l6bzoU66_UqExUByio/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nickelodeon CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFFT6a3BuJxCySzHamN_oNQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OLN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/outdoor.life.network.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/omni.1.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/omni.2.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OUTtv
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/outtv.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",One Get Fit
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/one.get.fit.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Paramount Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.network.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Undefined",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment;Undefined",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Undefined",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Prise 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKxnlIpSaVLjDetsOIr5gdE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",QVTV
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPv0RMKM0g2c13hAsmF5UzA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS Info HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIJt9ghEdC6U68fa0lARiDA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Rai Italia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.italia.1.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Rogers Guelph
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rogers.guelph.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Rogers Kitchener
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rogers.kitchener.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SHOPPING
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/shopping.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SILVER SCREEN CLASSICS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/silver.screen.classics.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Salt & Light
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/salt.light.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="Undefined",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Series+ HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKkQl2Y1jGf5AqnzUBRc5iM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Showcase HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1A-jkDrDg_XFam5jHi6I0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.sikhspiritualcentrerexdale.com/wp-content/uploads/2019/07/favicon-transprent.png" group-title="Undefined",Sikh Spiritual Centre Rexdale (720p)
+https://cdn12.henico.net:8443/live/ssct/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Slice CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/slice.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Slice HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ9Y_R6mmu9aOsjsNdLuaSM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Smithsonian Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/smithsonian.channel.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFu9JLaACu6Ff0V5_EuPetM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Starz1 (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/starz1.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Starz2 (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/starz2.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Stingray Soul Storm (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Channel Fuse
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/super.channel.fuse.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Channel Vault
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/super.channel.vault.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDLty5mJ3u1Km88y0T2Um8k/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLN Italian
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tln.west.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TREEHOUSE HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SALHMhYcjCULN5i2UeFUTRw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOVILS4hbbFQEy0LL6cmSjw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCs3j2MPwrfJPYQMsjyDG84/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-OQiLTOXQ4QgMA7ayn6-I/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAMWZFG71mzYqaq5jfzcZZQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMHDlzS-SFTs9S7grg6oQnI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMmXlYOFB2CoG99OEIQ62jk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Local",TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TV5 Québec HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEGPKLaW4h40cn4mN2_81uQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TVA HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHQsgaemNqURDXlJSCgpOjk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TVO CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvo.tv.ontario.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="Undefined",Tamil Vision International,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Undefined",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Undefined",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Tele Toon CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/teletoon.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Teletoon HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFMeKczUAletzfFCu7BB8gc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",The News forum
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/the.news.forum.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",The Weather Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGCZWneIGshcYez7OaYCAzY/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Undefined",Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Travel + Escape
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.escape.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TravelXP
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travelxp.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Treehouse CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/treehouse.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Télé Québec HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMSBN7ULTpljhDPTL4AsSyk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Local",Uvagut TV (1080p)
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",V Télé
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP2kt04arRW546llNpecw3I/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",VRAK TV HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIMnlKP1TKH0zQkBSr9vvyc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Vision TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vision.tv.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",W Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/w.wtn.east.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",W Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE4R4KhkzHGhF90qndgZp3c/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CO;DK;FI;HU;IR;IL;MN;PH;ES;TH" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News;SPAIN",WION (1080p)
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Weather Network CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/weather.network.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",WeatherNation
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/weathernation.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Wild TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/wild.tv.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNfjaH25UROHYG1_nGFkix8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Yes TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/yes.tv.ckcs.calgary.ab.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Yes TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF0VT8612LIu4H6wjw6xH_c/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Yoopa HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPaUBpie14vXup4nARh3yNI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Zeste HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGJjGmSOhZHl2PfRCBqwMp0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined", CTV SCI-FI HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEmCK5mEbSoN6LA9f0mKNfA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined", Much Music HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM7vFDLQi0QHF_5huuarNaM/ts?checkedby:iptvcat.com
